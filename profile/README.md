@@ -1,0 +1,4 @@
+<img src="https://i.imgur.com/orRM0Ao.png"  width="600" height="175">
+
+
+[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/ADEz9KBAW9)
